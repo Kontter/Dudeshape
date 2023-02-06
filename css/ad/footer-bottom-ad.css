@@ -1,0 +1,31 @@
+/* =================================700===================================== */
+@media (max-width: 700px) {
+    .footer-bottom-container {
+        flex-direction: column;
+        text-align: center;
+    }
+    .logo-footer {
+        margin-bottom: 16px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .footer-bottom-collumn1 {
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #DDDDDD;
+    }
+    .footer-bottom-menu {
+        margin-bottom: 27px;
+        border-bottom: 1px solid #DDDDDD;
+        padding-bottom: 10px;
+    }
+    .footer-menu-inner-title {
+        margin-bottom: 20px;
+    }
+    .footer-bottom-menu-socials {
+       justify-content: center;
+    }
+    .footer-bottom-menu2 {
+        border-bottom: 1px solid #DDDDDD;
+    }
+}

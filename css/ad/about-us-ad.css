@@ -1,0 +1,16 @@
+@media (max-width: 567px) {
+    .about-us-container {
+        flex-direction: column;
+    }
+    .abous-us-block {
+       margin-bottom: 20px;
+       text-align: center;
+    }
+    .about-us-descr1 {
+        margin-bottom: 6px;
+    }
+    .about-us {
+        padding: 26px 0 25px 0;
+        margin-bottom: 50px;
+    }
+}

@@ -1,0 +1,42 @@
+/* =================================1240===================================== */
+@media (max-width: 1240px) {
+    .perfect-container {
+     flex-direction: column;
+    }
+    .perfect-info {
+     max-width: 608px;
+     padding: 0;
+     margin: 0 auto;
+     }
+     .perfect {
+         margin-bottom: 50px;
+     }
+     .perfect-img {
+         margin: 0 auto;
+     }
+     .perfect-btn {
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+     }
+     .perfect-title {
+         max-width: 100%;
+     }
+ }
+ /* =================================627===================================== */
+ @media (max-width: 627px) {
+     .perfect-img {
+         display: none;
+     }
+     .perfect-descr2 {
+         margin-bottom: 15px;
+     }
+     .perfect-title {
+         font-size: 41px;
+         line-height: 50px;
+     }
+     body {
+         font-size: 18px;
+         line-height: 27px;
+     }
+ }

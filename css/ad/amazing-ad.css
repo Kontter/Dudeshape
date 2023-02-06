@@ -1,0 +1,45 @@
+/* =================================1076===================================== */
+@media (max-width: 1076px) {
+    .amazing-stars {
+        margin-bottom: 20px;
+    }
+    .amazing-descr {
+        margin-bottom: 40px;
+    }
+}
+/* =================================985===================================== */
+@media (max-width: 985px) {
+    .amazing {
+        margin-bottom: 50px;
+    }
+    .amazing-container {
+        flex-direction: column-reverse;
+        gap: 16px;
+    }
+    .amazing-info {
+        max-width: 625px;
+        margin: 0 auto;
+        padding: 0; 
+        text-align: center;
+    }
+    .amazing-img {
+        margin: 0 auto;
+    }
+    .amazing-bottom {
+        max-width: 84px;
+    }
+    .amazing-name, .amazing-designer, .amazing-bottom {
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .amazing-descr {
+        padding-left: 0;
+    }
+}
+/* =================================628===================================== */
+@media (max-width: 628px) {
+    .amazing-img {
+        width: 291px;
+        height: 316px;
+    }
+}

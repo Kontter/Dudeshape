@@ -1,0 +1,29 @@
+/* =================================1010===================================== */
+@media (max-width: 1010px) {
+    .footer-top-container {
+        flex-direction: column;
+        padding-bottom: 20px;
+    }
+    .footer-top-title {
+        margin-bottom: 10px;
+        text-align: center;
+    }
+}
+/* =================================600===================================== */
+@media (max-width: 600px) {
+    .footer-top-form {
+        width: 100% ;
+    }
+    .footer-top-btn {
+        padding: 18px 20px;
+        display: block;
+        width: 100%;
+    }
+    .input-email {
+        margin-bottom: 15px;
+    }
+    .footer {
+        padding: 50px 0 52px 0;
+        background-color: #FAFAFA;
+    }
+}
